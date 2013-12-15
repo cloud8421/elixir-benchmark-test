@@ -1,0 +1,2 @@
+[ "benchmakr": {:git, "git://github.com/cloud8421/elixir-benchmark.git", "d5e15aabff417f1ffc9ecf8e5966f5c338b10c1e", []},
+  "benchmark": {:git, "git://github.com/cloud8421/elixir-benchmark.git", "8471f7843be6a95111e8f78f5f66be4141d287cf", []} ]

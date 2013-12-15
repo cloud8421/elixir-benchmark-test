@@ -1,6 +1,6 @@
 # ElixirBenchmarkTests
 
-This repository collects benchmark tests for Elixir.
+This repository collects benchmark tests for Elixir. The idea is that given two or more possible implementations for a single task, we want to see which is more performant.
 
 ## Setup
 

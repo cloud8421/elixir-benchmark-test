@@ -1,4 +1,4 @@
-defmodule ElixirBenchmarkTestsTest do
+defmodule CondVsGuards do
   use ExUnit.Case, async: true
   require Benchmark
 
